@@ -3,7 +3,7 @@
     "displayName": "Monokai Charcoal Full Dark",
     "description": "A VSCode dark theme based on Monokai Charcoal",
     "version": "0.0.1",
-    "publisher": "Lester Lo",
+    "publisher": "lesterlo",
     "repository": {
 		"type": "git",
 		"url": "https://github.com/lesterlo/VSCode-Monokai-Full-Dark-Theme"
