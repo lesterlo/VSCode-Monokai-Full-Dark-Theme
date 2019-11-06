@@ -1,5 +1,9 @@
 # VSCode Monokai Full Dark Theme
 
+![theme screenshot](./screenshot_1.png)
+
+
+
 ## Introduction
 This is my custom VSCode Theme.
 

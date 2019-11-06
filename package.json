@@ -8,7 +8,8 @@
 		"type": "git",
 		"url": "https://github.com/lesterlo/VSCode-Monokai-Full-Dark-Theme"
 	},
-	"homepage": "https://github.com/lesterlo/VSCode-Monokai-Full-Dark-Theme",
+    "homepage": "https://github.com/lesterlo/VSCode-Monokai-Full-Dark-Theme",
+    "icon": "icon.png",
     "engines": {
         "vscode": "^1.39.0"
     },
