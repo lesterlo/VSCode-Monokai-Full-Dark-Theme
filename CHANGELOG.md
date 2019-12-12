@@ -6,9 +6,14 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
+## [0.0.3] - 2019-12-12
+### Changed
+- Fix titlebar visibility problem
+
 ## [0.0.2] - 2019-11-7
-- [Added] icon
-- [Added] Screenshot on README file
+### Added
+- Program icon
+- Screenshot on README file
 
 ## [0.0.1] - 2019-11-6
 - Initial release

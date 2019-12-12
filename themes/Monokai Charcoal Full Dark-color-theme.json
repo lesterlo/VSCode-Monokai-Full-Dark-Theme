@@ -300,17 +300,21 @@
 		"activityBarBadge.background": "#1c8d00",
         "diffEditor.insertedTextBorder": "#608b4e",
 		"diffEditor.removedTextBorder": "#d16969",
-		"list.dropBackground": "#383b3d",
+        "list.dropBackground": "#383b3d",
+        
         "sideBar.background": "#000000",
         "sideBarTitle.foreground": "#bbbbbb",
+
         "statusBar.background": "#050505",
         "statusBar.debuggingBackground": "#263238",
         "statusBar.noFolderBackground": "#212121",
+
         "activityBar.background": "#050505",
+
         "titleBar.activeBackground": "#000000",
-        "titleBar.activeForeground": "#000000",
+        "titleBar.activeForeground": "#ffffff",
         "titleBar.inactiveBackground": "#000000",
-		"titleBar.inactiveForeground": "#000000",
+		"titleBar.inactiveForeground": "#ffffff54",
 		"contrastBorder": "#000000",
 		
 		//VS Code Editor
