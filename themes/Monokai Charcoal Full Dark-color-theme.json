@@ -340,7 +340,7 @@
         
 		
 		//Terminal
-		"terminal.ansiBlack": "#8f8f8f",
+		"terminal.ansiBlack": "#000000",
         "terminal.ansiBrightBlack": "#8f8f8f",
         "terminal.ansiRed": "#f82a5d",
         "terminal.ansiBrightRed": "#f82a5d",
